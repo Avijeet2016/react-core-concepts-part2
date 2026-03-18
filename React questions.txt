@@ -1,0 +1,17 @@
+1) What is React JS
+2) What is Component in React JS?
+3) JSX Basics, Rules and Adding Dynamic Content?
+4) Explore JSX and props basics
+5) Props types and how to pass/read a prop
+6) Read only props, two ways of conditional rendering
+7) Rendering lists of users using map
+
+-------------
+8) Different ways to handle events in react
+9) a simple intro to state change in react
+10) useState and react hooks
+11) use() hook
+12) Load dynamic data, api call using use()
+13) load dynamic data using async await
+14) load data using useEffect hook
+15) Thinking in React way and react all the react things for beginner
